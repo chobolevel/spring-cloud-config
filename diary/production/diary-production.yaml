@@ -2,4 +2,3 @@ com:
   diary:
     api:
       profile: production
-      name: chobolevel
