@@ -1,3 +1,4 @@
-spring:
-  profiles:
-    active: local
+com:
+  diary:
+    api:
+      profile: local

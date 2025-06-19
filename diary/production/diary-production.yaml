@@ -1,3 +1,4 @@
-spring:
-  profiles:
-    active: production
+com:
+  diary:
+    api:
+      profile: production
